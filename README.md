@@ -13,7 +13,7 @@
 <a href="https://linkedin.com/in/karthikkumarrajubahatam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karthikkumarrajubahatam" height="30" width="40" /></a>
 <a href="https://instagram.com/fit.with.karthikeya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fit.with.karthikeya" height="30" width="40" /></a>
 </p>
-<a href="https://www.youtube.com/c/FitwithKarthikeya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="FitwithKarthikeya" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@FitwithKarthikeya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="FitwithKarthikeya" height="30" width="40" /></a>
 </p>
 
 
