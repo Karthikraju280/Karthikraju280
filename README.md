@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karthikeya Kumar Raju Bahatam</h1>
-<h3 align="center">A passionate upcoming developer from India currently doing a job at Accenture as Content Moderator Intern. </h3>
+<h3 align="center">A passionate frontend developer from India currently doing a job at Accenture as a Content Moderator Intern and a part-time youtube vlogger. </h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karthikraju280&label=Profile%20views&color=0e75b6&style=flat" alt="karthikraju280" /> </p>
